@@ -5,6 +5,6 @@
 </header>
 <body>
 <?php  phpinfo();?>
-<?php echo '<p>Hello World</p>';?>
+<?php echo '<p>Hello World2 </p>';?>
 </body>
 </html>

@@ -4,6 +4,7 @@
 <title>PHP Test</title>
 </header>
 <body>
-<?php  phpinfo(); echo '<p>Hello World</p>';?>
+<?php  phpinfo();?>
+<?php echo '<p>Hello World</p>';?>
 </body>
 </html>
